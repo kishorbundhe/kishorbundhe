@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kishorbundhe
-- 👀 I’m interested in backend Development and competitive coding
+- 👀 I’m interested in backend Development
 - 🌱 I’m currently learning Springboot advance concepts 
 - 💞️ I’m looking to collaborate on springboot projects
 - 📫 How to reach me Kishorbundhe95@gmail.com
